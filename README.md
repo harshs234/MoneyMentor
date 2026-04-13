@@ -35,10 +35,3 @@ MoneyMentor/
 │── models/              # Trained model (not included)
 │── requirements.txt
 │── README.md
-│── .gitignore
-⚙️ Setup
-git clone https://github.com/your-username/MoneyMentor.git
-cd MoneyMentor
-python -m venv venv
-venv\Scripts\activate   # or source venv/bin/activate
-pip install -r requirements.txt
